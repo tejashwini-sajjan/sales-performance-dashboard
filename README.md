@@ -1,8 +1,9 @@
 # Sales Performance Dashboard
 
+
 ## Dashboard Preview
 
-Sales_Dashboard.png
+![Dashboard Preview
 
 ## Project Overview
 
