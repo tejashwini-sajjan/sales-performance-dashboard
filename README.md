@@ -1,14 +1,12 @@
-# sales-performance-dashboard
 # Sales Performance Dashboard
 
-## Overview
-Interactive Power BI dashboard built using the Superstore dataset.
+## Dashboard Preview
 
-## Tools Used
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
+Sales_Dashboard.png
+
+## Project Overview
+
+Interactive Power BI dashboard built using the Superstore dataset.
 
 ## KPIs
 - Total Sales: 2.30M
@@ -17,12 +15,16 @@ Interactive Power BI dashboard built using the Superstore dataset.
 - Profit Margin: 12.47%
 
 ## Features
+- KPI Cards
 - Sales Trend Analysis
-- Regional Performance Analysis
+- Regional Analysis
 - Category Analysis
-- Interactive Slicers
-- KPI Tracking
+- Interactive Filters
+- DAX Measures
+- Data Modeling
 
-## Dashboard Preview
-
-[Insert Screenshot Here]
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Excel
