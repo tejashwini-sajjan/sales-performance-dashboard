@@ -2,6 +2,7 @@
 
 
 ## Dashboard Preview
+
 Sales_Dashboard.png
 
 ## Project Overview
