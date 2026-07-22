@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Sales_Dashboard.png
+Sales_Dashboard.png
 
 ## Project Overview
 
